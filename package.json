@@ -1,0 +1,13 @@
+{
+  "name": "jamoises-project",
+  "version": "1.0.0",
+  "description": "A simple project setup for jamoises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
